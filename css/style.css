@@ -1,6 +1,8 @@
 /* Main Stylesheet */
 
+
 /* Global */
+
 body {
   background: darkgrey;
 }
@@ -9,8 +11,31 @@ img: {
   width:
 }
 
+
+/* Navigation */
+
+nav a {
+  text-transform: uppercase;
+  color: blue;
+  text-decoration: none;
+}
+
+
 /* Typography */
+
 
 /* Homepage */
 
-/* Resume */ 
+
+/* Bio */
+
+
+/* Resume */
+
+
+/* Portfolio */
+
+
+/* Footer */
+
+
