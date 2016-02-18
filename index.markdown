@@ -15,4 +15,5 @@
 
 <h1>Joe Buser</h1>
 
-![My Pic]() 
+<img src="https://github.com/jbuser/jbuser.github.io/blob/master/images/MyPic.png?raw=true" alt="My Pic">
+ 
